@@ -1,5 +1,8 @@
 _repo: Indian-Sketches-Taken-During-an-Expedition-to-the-Pawnee-and-Other-Tribes-of-American-Indians__56962
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 56962-h/images/cover.jpg
 creator:
   author:
     agent_name: Irving, John Treat, 1812-1906
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '49102'
     url: http://www.gutenberg.org/2009/agents/49102
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56962#Indian-Sketches-Taken-During-an-Expedition-to-the-Pawnee-and-Other-Tribes-of-American-Indians_
 gutenberg_issued: '2018-04-11'
 gutenberg_type: Text
 identifiers:
